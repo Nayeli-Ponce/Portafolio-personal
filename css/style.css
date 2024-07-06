@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+.precentacion { 
+    text-align: center;
+    background-color: rgb(235, 202, 233);
+font-family:'Delicious Handrawn', cursive;
+}
+body{
+background-image:url("/web.jpg") ;
+background-size: cover;
+background-repeat: no-repeat;
+}
+img{
+    width: 180px;
+    height: 280px;
+    align-self: center;
+    border-radius: 50%;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+h1{
+text-align: center;
+background-color: rgb(212, 224, 251);
+font-family:'Delicious Handrawn', cursive;
+color: rgb(66, 146, 243);
+}
+h2{
+    text-align: center;
+    font-family:'Delicious Handrawn', cursive;
+    color: rgb(96, 145, 212);
+}
+h3{
+    font-family: cursive;
+    color: rgb(49, 123, 221);
+}
+p{
+    font-family: cursive;
+}
+.verso{
+    font-family: cursive;
+    color: rgb(32, 79, 114);
+     text-align: center;
+}
+footer{
+    display: flex;
+font-family: cursive;
+}
