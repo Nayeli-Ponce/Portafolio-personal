@@ -20,10 +20,11 @@ img{
     justify-content: center;
 }
 h1{
-text-align: center;
-background-color: rgb(212, 224, 251);
-font-family:'Delicious Handrawn', cursive;
-color: rgb(66, 146, 243);
+    text-align: center;
+    background-color: rgb(212, 224, 251);
+    font-family:'Delicious Handrawn', cursive;
+    color: rgb(66, 146, 243);
+
 }
 h2{
     text-align: center;
@@ -44,5 +45,5 @@ p{
 }
 footer{
     display: flex;
-font-family: cursive;
+    font-family: cursive;
 }
