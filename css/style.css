@@ -5,12 +5,11 @@
 font-family:'Delicious Handrawn', cursive;
 }
 body{
-background-image:url("https://nayeli-ponce.github.io/Portafolio-personal/web.jpg") ;
-background-size: cover;
-background-repeat: no-repeat;
+background-color: rgb(188, 207, 207);
 }
 img{
     width: 180px;
+    
     height: 280px;
     align-self: center;
     border-radius: 50%;
